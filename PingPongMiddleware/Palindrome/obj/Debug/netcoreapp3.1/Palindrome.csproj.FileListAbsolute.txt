@@ -1,0 +1,11 @@
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+F:\TestTask\PingPongMiddleware\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+F:\TestTask\PingPongMiddleware\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csprojAssemblyReference.cache
+F:\TestTask\PingPongMiddleware\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+F:\TestTask\PingPongMiddleware\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+F:\TestTask\PingPongMiddleware\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+F:\TestTask\PingPongMiddleware\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
